@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:45.413829
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:50
 #+TITLE: 法界觀披雲集
 #+PROPERTY: CBETA_ID X58n1014
 #+PROPERTY: ID KR6e0133
